@@ -8,7 +8,7 @@
         <global>true</global>
         <isolate_script>true</isolate_script>
         <messages/>
-        <name>测试5</name>
+        <name>测试6</name>
         <order/>
         <script/>
         <sys_class_name>sys_script_client</sys_class_name>
@@ -18,7 +18,7 @@
         <sys_domain_path>/</sys_domain_path>
         <sys_id>6c3676c62f36811007cbf64ef699b616</sys_id>
         <sys_mod_count>2</sys_mod_count>
-        <sys_name>测试5</sys_name>
+        <sys_name>测试6</sys_name>
         <sys_overrides/>
         <sys_package display_value="test02220410" source="x_744525_test02220">1f278b052fba011007cbf64ef699b68f</sys_package>
         <sys_policy/>
